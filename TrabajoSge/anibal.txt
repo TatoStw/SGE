@@ -1,0 +1,28 @@
+Codificacíon
+Planificación de la estructura de trabajo en sprints (repartir la carga de trabajo entre los participantes del equipo)
+
+Requisitos:
+Con login
+1 admin por biblioteca, 1 administrativo por cada biblioteca y por cada turno (2).
+
+para hacerte socio / dni + datos standar / cuenta bancaria
+5€ por mes de cuota, 3 libros como max a la vez (si devuelves 1 puedes coger otro) se pueden entregar libros en distintas bibliotecas (madrid, valencia... * 10) solo se puede tener un libro durante 2 semanas (15dias)
+el dia 1 de cada mes se genera un recibo por cada socio | datos del mes, datos del socio | check de si se ha pagado o no
+todas las bibliotecas comparten la base de datos pero cada uno tiene una bd local / si tu eres socio de madrid puedes devolver en toledo pero no puedes sacar otro libro en toledo solo en madrid
+el pago es externo se tiene que marcar un check si el socio ha pagado si ese mismo mes no lo tiene pagado se le da el libro pero en el segundo mes sin pagar no se le da
+hay que hacer un historial de los usuarios que se dan de baja
+el administrador ya esta creado y se encarga de crear el resto de usuarios
+la sancion de no entregar el libro son 3 euros (cuenta tb el retraso)
+el dia 1 de cada mes se le da al administrativo un listado con los libros no entregados
+si el libro se extravia se tiene que pagar el precio del libro
+si el libro se rompe / daña se paga desde 3€ si es un deterioro leve hasta el costo del libro si el libro se ha roto
+autores
+libros
+datos : isbn / editorial / autor / edicion / precio / cantidad 
+un libro puede tener 3 editoriales e isbn (el quijote, 5 editoriales, 15 libros, 3 por edicion) 
+autor: id nombre apellidos y correo electronico?
+cada vez que hay una sancion se guarda en una tabla de sanciones
+
+tabla recibos, sanciones check de pago
+
+tus muertos ORDER BY %localizacion

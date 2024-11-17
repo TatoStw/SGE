@@ -1,0 +1,54 @@
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.csproj.AssemblyReference.cache
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\MainWindow.g.cs
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\App.g.cs
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1_MarkupCompile.cache
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1_MarkupCompile.lref
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\bin\Debug\TrabajoSGE1.exe.config
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\bin\Debug\TrabajoSGE1.exe
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\bin\Debug\TrabajoSGE1.pdb
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\MainWindow.baml
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.g.resources
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.Properties.Resources.resources
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.csproj.GenerateResource.cache
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.csproj.CoreCompileInputs.cache
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.exe
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.pdb
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\Window1.g.cs
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\Window1.baml
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowAddSocio.g.cs
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowAddSocio.baml
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowRegSocios.g.cs
+C:\Users\tatos\source\repos\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowRegSocios.baml
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\bin\Debug\TrabajoSGE1.exe.config
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\bin\Debug\TrabajoSGE1.exe
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\bin\Debug\TrabajoSGE1.pdb
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.csproj.AssemblyReference.cache
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\MainWindow.g.cs
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\Window1.g.cs
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowAddSocio.g.cs
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowRegSocios.g.cs
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\App.g.cs
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1_MarkupCompile.cache
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1_MarkupCompile.lref
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\MainWindow.baml
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\Window1.baml
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowAddSocio.baml
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowRegSocios.baml
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.g.resources
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.Properties.Resources.resources
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.csproj.GenerateResource.cache
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.csproj.CoreCompileInputs.cache
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.exe
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\TrabajoSGE1.pdb
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowAddLibro.g.cs
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowRegLibros.g.cs
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowAddLibro.baml
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowRegLibros.baml
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowRegRecibos.g.cs
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowRegTrabajador.g.cs
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowRegRecibos.baml
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowRegTrabajador.baml
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowImpagos.g.cs
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowImpagos.baml
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowAddTrabajador.g.cs
+D:\DAM\2º Año\SGE\TrabajoSge\PracticaSGE-main\TrabajoSGE1\TrabajoSGE1\obj\Debug\WindowAddTrabajador.baml
